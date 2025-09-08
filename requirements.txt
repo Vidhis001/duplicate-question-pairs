@@ -1,4 +1,3 @@
-
 flask
 gunicorn
 scikit-learn
@@ -8,3 +7,4 @@ joblib
 nltk
 beautifulsoup4
 Distance
+fuzzywuzzy[speedup]   # includes python-levenshtein for faster fuzzy matching
