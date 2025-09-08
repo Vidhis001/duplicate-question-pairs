@@ -1,5 +1,8 @@
 flask
+gunicorn
 scikit-learn
-nltk
+numpy
+scipy
 joblib
-bs4
+nltk
+beautifulsoup4
