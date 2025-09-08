@@ -6,3 +6,6 @@ scipy
 joblib
 nltk
 beautifulsoup4
+xgboost
+Distance
+
