@@ -1,3 +1,4 @@
+
 flask
 gunicorn
 scikit-learn
@@ -6,6 +7,4 @@ scipy
 joblib
 nltk
 beautifulsoup4
-xgboost
 Distance
-
